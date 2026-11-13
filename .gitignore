@@ -1,0 +1,37 @@
+# Saida de compilacao Java
+out/
+bin/
+build/
+target/
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# Historico de execucao e logs do servidor
+*.log
+historico.log*
+
+# Empacotamentos / entregas
+*.zip
+
+# IDEs e editores (VS Code, IntelliJ IDEA, Eclipse, NetBeans)
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+nbproject/
+
+# Sistema operativo e ficheiros temporarios
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
+
